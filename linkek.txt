@@ -3,3 +3,4 @@ https://www.cel.ro/placi-video/placa-video-gigabyte-geforce-gtx-1660-super-oc-6g
 https://www.cel.ro/placi-video/placa-video-gigabyte-geforce-gtx-1660-oc-6gb-gddr5-192-bit-pMCA3MjcvNg-l/ product-price gygb-gtx1660-oc 2500
 https://www.cel.ro/placi-video/placa-video-powercolor-red-dragon-radeon-rx-580-8gb-gddr5-256-bit-pNio6NzMq-l/ product-price reddragon-rx580-8gb 2700
 https://www.cel.ro/placi-video/placa-video-palit-geforce-gtx-1660-super-gamingpro-oc-6gb-gddr6-192bit-pMyoxNTcpMw-l/ product-price palit-gtx1660-6gb 2500
+https://altex.ro/placa-video-xfx-amd-radeon-rx-580-gts-xxx-8gb-gddr5-256bit-rx-580p8dfd6/cpd/CSARX580P8DFD6/ Price-int xfx-rx580-8gb 2700
