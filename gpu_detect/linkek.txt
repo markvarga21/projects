@@ -1,0 +1,12 @@
+cel.ro https://www.cel.ro/placi-video/placa-video-xfx-radeon-rx-580-gts-xxx-edition-8gb-gddr5-256bit-pNSM7NT0t-l/ product-price xfx-rx580-8gb 2600
+cel.ro https://www.cel.ro/placi-video/placa-video-gigabyte-geforce-gtx-1660-super-oc-6gb-gddr6-192-bit-pMCozMTcmNQ-l/ product-price gygb-gtx1660-6gb 2600
+cel.ro https://www.cel.ro/placi-video/placa-video-gigabyte-geforce-gtx-1660-oc-6gb-gddr5-192-bit-pMCA3MjcvNg-l/ product-price gygb-gtx1660-oc 2600
+cel.ro https://www.cel.ro/placi-video/placa-video-powercolor-red-dragon-radeon-rx-580-8gb-gddr5-256-bit-pNio6NzMq-l/ product-price reddragon-rx580-8gb 2600
+cel.ro https://www.cel.ro/placi-video/placa-video-palit-geforce-gtx-1660-super-gamingpro-oc-6gb-gddr6-192bit-pMyoxNTcpMw-l/ product-price palit-gtx1660-6gb 2600
+altex.ro https://altex.ro/placa-video-xfx-amd-radeon-rx-580-gts-xxx-8gb-gddr5-256bit-rx-580p8dfd6/cpd/CSARX580P8DFD6/ Price-int xfx-rx580-8gb 2600
+itgalaxy.ro https://itgalaxy.ro/placi-video/xfx/amd-radeon-rx-580-gts-xxx-edition-8gb-ddr5-256bit-153005/ price xxx-rx580-8gb 2600
+itgalaxy.ro https://www.itgalaxy.ro/placi-video/gigabyte/amd-radeon-rx-580-d5-8gb-gddr5-256bit-381018/ price gigb-rx580-8gb 2600
+itgalaxy.ro https://www.itgalaxy.ro/placi-video/sapphire/amd-radeon-rx-580-pulse-8gb-ddr5-256bit-152384/ price saphire-rx580-8gb 2600
+itgalaxy.ro https://www.itgalaxy.ro/placi-video/gigabyte/nvidia-geforce-gtx-1660-oc-6gb-gddr5-192bit-263558/ price gigb-gtx1660-oc6gb 2600
+itgalaxy.ro https://www.itgalaxy.ro/placi-video/gigabyte/nvidia-geforce-gtx-1660-super-oc-6gb-gddr6-192bit-308664/ price gigb-gtx1660-sup_oc6gb 2600
+
