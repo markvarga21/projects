@@ -1,0 +1,12 @@
+- zenet is tudjon lejatszani, ffmpeg
+- ranking system done
+- user count done
+- ZH count
+- vicc meselo
+- add role adminoknak
+- admin parancsok nem kimutatasa
+- message ignorance in certain channels
+- message deletion egy ido utan
+- myroles
+- csunyabeszed check
+
