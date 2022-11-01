@@ -1,0 +1,7 @@
+00:00 - Bevezetés
+01:15 - A Linux telepitése: milyen lehetőségeink vannak?
+07:30 - A Virtual Box feltelepitése
+09:13 - Az Ubuntu Linux telepitése virtuális gépre
+22:47 - Telepités utáni lépések
+25:37 - Frissítő szkript (good_shape.sh) letöltése, használata
+29:52 - Befejezés
